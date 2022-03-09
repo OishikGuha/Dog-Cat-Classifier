@@ -18,4 +18,4 @@ PILlow
 2. Open your terminal.
 3. Type `streamlit run`
 
-There you go! You can now test the AI with different kinds of images and feel free to check the code :) 
+There you go! You can now test the AI with different kinds of dog and cat images. But some very stretched resolutions may return strange results since the program resizes the given image into a 256x256 resolution for the AI. Feel free to fork this repo and mess with the code :)
