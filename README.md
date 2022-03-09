@@ -17,4 +17,5 @@ PILlow
 1. Make sure to be in the origin directory of this project.
 2. Open your terminal.
 3. Type `streamlit run`
+
 There you go! You can now test the AI with different kinds of images and feel free to check the code :) 
